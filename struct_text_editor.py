@@ -39,7 +39,6 @@ view = tk.Menu(main_menu, tearoff = False)
 # color icons
 light_default_icon=tk.PhotoImage(file= 'icons/light_default.png')
 light_plus_icon=tk.PhotoImage(file= 'icons/light_plus.png')
-# light_default_icon=tk.PhotoImage(file= 'icons/light_default.png')
 dark_icon=tk.PhotoImage(file= 'icons/dark.png')
 night_blue_icon=tk.PhotoImage(file= 'icons/night_blue.png')
 red_icon=tk.PhotoImage(file= 'icons/red.png')
